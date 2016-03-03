@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">OnKeyLockSreen</string>
+    <string name="sample_device_admin_description">一键锁屏获取锁屏管理权限</string>
+    <string name="sample_device_admin">一键锁屏</string>
+
+</resources>
